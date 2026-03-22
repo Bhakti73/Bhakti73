@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey there! I am Bhakti | an aspiring Engineer |<br><br>• Passionate about learning new technologies and building real-world projects<br>• Currently exploring programming, problem-solving, and core computer science concepts<br>• Focused on growing my skills step by step and creating impactful solutions<br>• Always curious, always learning, and striving to improve every day<br><br>Turning ideas into reality, one line of code at a time.<br>
+# 💫 Hey there! I am Bhakti :)
+An aspiring Engineer |<br><br>• Passionate about learning new technologies and building real-world projects<br>• Currently exploring programming, problem-solving, and core computer science concepts<br>• Focused on growing my skills step by step and creating impactful solutions<br>• Always curious, always learning, and striving to improve every day<br><br>Turning ideas into reality, one line of code at a time.<br>
 
 
 ## 🌐 Socials:
