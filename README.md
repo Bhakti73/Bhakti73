@@ -12,17 +12,6 @@ An aspiring Engineer 👩🏻‍💻 <br><br>• Passionate about learning new t
 
 
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhakti73&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="45%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bhakti73&theme=radical&hide_border=true" width="55%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhakti73&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="35%" />
-</p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
